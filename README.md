@@ -1,4 +1,4 @@
-# Awesome Benchmarking Factual Accuracy of Large Language Models Across Scientific Domains [![Awesome](https://rawgit.com)](https://github.com)
+# Awesome Benchmarking Factual Accuracy of Large Language Models Across Scientific Domains
 
 ## ✍️ Student Details
 *   **Name:** VELIGATLA NANDA VARUN GOWD
